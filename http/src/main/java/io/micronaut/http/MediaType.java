@@ -143,7 +143,7 @@ public class MediaType implements CharSequence {
     /**
      * XHTML: application/xhtml+xml.
      */
-    public static final MediaType APPLICATION_XHTML_TYPE = new MediaType(APPLICATION_XHTML, "html");
+    public static final MediaType APPLICATION_XHTML_TYPE = new MediaType(APPLICATION_XHTML, "xhtml");
 
     /**
      * XML: application/xml.
